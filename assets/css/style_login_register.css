@@ -194,6 +194,7 @@ input {
     padding: 15px;
     outline: none;
     border: none;
+    width: -webkit-fill-available;
     cursor: pointer;
     font-size: 15px;
     transition: all ease 0.3s;
@@ -206,7 +207,7 @@ input {
 }
 
 .btn-login:hover {
-    background-color: #0B1CD5;
+    background-color: #151c23;
 }
 
 .btn-gogle-auth {
@@ -255,7 +256,7 @@ label {
 }
 
 a:hover {
-    color: #07139C;
+    color: #151c23;
 }
 
 
